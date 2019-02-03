@@ -11,4 +11,4 @@
 
 [Автор Dark_Sarmat](https://www.ionline.by)
 
-Всю исчерпывающую информацию о доработанных моделях, параметры печати и полное описание проекта вы найдете по ссылке: https://www.ionline.by/diy/3d-pechat/3d-modeli/boks-dlya-xraneniya-sd-kart-vmeshhaet-20-shtuk-01-02-2019/
+Всю исчерпывающую информацию о доработанных моделях, параметры печати и полное описание проекта вы найдете по ссылке: https://www.ionline.by/diy/3d-pechat/3d-modeli/boks-dlya-xraneniya-sd-kart-vmeshhaet-20-shtuk-03-02-2019/
